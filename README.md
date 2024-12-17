@@ -419,6 +419,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   Light House Resort Wamba Road, Akwanga, Nasarawa state.
 - [DNI Hubs](https://dnihubs.com)
   Lafia, Nasarawa State, Nasarawa state.
+- [02 Innovations Lab](https://02innovationslab.com/)
+  Plot 160 AJ Ahmadu Plaza (Liyafa Bakery) Custom Line, Markurdi Rd, Lafia, Nasarawa State
 
 ## Niger
 
